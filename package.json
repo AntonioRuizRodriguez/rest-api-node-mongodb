@@ -1,0 +1,18 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "API Rest node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Toni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
